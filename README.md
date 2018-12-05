@@ -2,9 +2,12 @@
 
 ## Getting Started
 Download `MaterialButtonBehavior` and copy or put your project.
-add `MaterialButton` component in your `xml` layout that parent that should be `CoordinatorLayout`
+add `MaterialButton` component in your `xml` layout that parent it should be `CoordinatorLayout`
+
 `android:layout_width` for when expande
+
 `android:minWidth` for when collapse
+
 `app:layout_behavior` for set `MaterialButtonBehavior` 
 
 ### Example
