@@ -1,6 +1,9 @@
 # Android Material Button Behavior on RecyclerView
 
-## Getting Started
+### Preview
+<img src="https://raw.githubusercontent.com/ImanX/android-materialButton-behavior/master/preview.gif" alt="sample"/>
+
+### Getting Started
 Download `MaterialButtonBehavior` and copy or put your project.
 add `MaterialButton` component in your `xml` layout that parent it should be `CoordinatorLayout`
 
